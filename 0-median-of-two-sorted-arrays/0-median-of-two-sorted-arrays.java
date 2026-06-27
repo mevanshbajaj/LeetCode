@@ -1,8 +1,7 @@
 
-            if (maxLeftX <= minRightY && maxLeftY <= minRightX) {
-                // Even total length
-                if ((x + y) % 2 == 0) {
-                    return (Math.max(maxLeftX, maxLeftY) + Math.min(minRightX, minRightY)) / 2.0;
+                    return (Math.max(maxLeftX, 
+                    maxLeftY) + Math.min(minRightX, 
+                    minRightY)) / 2.0;
                 } 
                 // Odd total length
                 else {
