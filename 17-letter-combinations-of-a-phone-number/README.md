@@ -6,6 +6,6 @@
 **Memory:** 42.5 MB
 **Tags:** Hash Table, String, Backtracking
 
-[View on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/)
+[View on LeetCode](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/1539399003/)
 
 Solved automatically and synced via AutoCodeHub on 2026-06-27.
