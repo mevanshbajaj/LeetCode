@@ -1,5 +1,6 @@
-class Solution {
-    public int threeSumClosest(int[] nums, int target) {
-        
-    }
+
+class Solution {
+    public int threeSumClosest(int[] nums, int target) {
+        
+    }
 }
