@@ -1,9 +1,0 @@
-            } 
-            // Move right
-            else {
-                low = partitionX + 1;
-            }
-        }
-        throw new IllegalArgumentException();
-    }
-}
