@@ -6,6 +6,6 @@
 **Memory:** 93.4 MB
 **Tags:** Array, Hash Table, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/contains-duplicate/submissions/)
+[View on LeetCode](https://leetcode.com/problems/contains-duplicate/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-06-29.
