@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 1 ms
-**Memory:** 46.5 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Hash Table, String, Counting
 
-[View on LeetCode](https://leetcode.com/problems/ransom-note/description/)
+[View on LeetCode](https://leetcode.com/problems/ransom-note/submissions/2049932456/)
 
 Solved automatically and synced via AutoCodeHub on 2026-06-29.
