@@ -6,6 +6,6 @@
 **Memory:** 46.5 MB
 **Tags:** Hash Table, String, Counting
 
-[View on LeetCode](https://leetcode.com/problems/ransom-note/submissions/2049922763/)
+[View on LeetCode](https://leetcode.com/problems/ransom-note/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-06-29.
