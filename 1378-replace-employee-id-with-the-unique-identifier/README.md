@@ -2,7 +2,7 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 1191 ms
+**Runtime:** 1536 ms
 **Memory:** N/A
 **Tags:** Database
 
