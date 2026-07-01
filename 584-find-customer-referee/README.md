@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 516 ms
+**Runtime:** N/A
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/find-customer-referee/submissions/2052022927/)
+[View on LeetCode](https://leetcode.com/problems/find-customer-referee/submissions/2052502941/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-01.
