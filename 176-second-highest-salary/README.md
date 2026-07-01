@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/second-highest-salary/)
+[View on LeetCode](https://leetcode.com/problems/second-highest-salary/submissions/1881781036/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-01.
