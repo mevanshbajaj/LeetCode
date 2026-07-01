@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** N/A
+**Runtime:** 1191 ms
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/submissions/2052156825/)
+[View on LeetCode](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-01.
