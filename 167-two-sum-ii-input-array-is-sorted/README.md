@@ -6,6 +6,6 @@
 **Memory:** 48.6 MB
 **Tags:** Array, Two Pointers, Binary Search
 
-[View on LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2053435640/)
+[View on LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2053438596/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-02.
