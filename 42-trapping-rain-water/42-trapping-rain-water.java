@@ -1,5 +1,6 @@
-class Solution {
-    public int trap(int[] height) {
-        
-    }
+
+class Solution {
+    public int trap(int[] height) {
+        
+    }
 }
