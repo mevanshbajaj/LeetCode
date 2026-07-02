@@ -3,9 +3,9 @@
 **Difficulty:** Medium
 **Language:** java
 **Runtime:** 2 ms
-**Memory:** 48.6 MB
+**Memory:** 48.5 MB
 **Tags:** Array, Two Pointers, Binary Search
 
-[View on LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2053438596/)
+[View on LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2053446595/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-02.
