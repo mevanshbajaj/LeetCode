@@ -6,6 +6,6 @@
 **Memory:** 48.3 MB
 **Tags:** Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack
 
-[View on LeetCode](https://leetcode.com/problems/trapping-rain-water/)
+[View on LeetCode](https://leetcode.com/problems/trapping-rain-water/submissions/2053480213/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-02.
