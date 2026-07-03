@@ -1,5 +1,6 @@
 class Solution {
-    public List<List<Integer>> fourSum(int[] nums, int target) {
+    public int threeSumClosest(int[] arr, int target) {
+        Arrays.sort(arr);
         
     }
 }
