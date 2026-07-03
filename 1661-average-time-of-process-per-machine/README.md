@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/average-time-of-process-per-machine/submissions/2053108281/)
+[View on LeetCode](https://leetcode.com/problems/average-time-of-process-per-machine/submissions/2054188978/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-02.
+Solved automatically and synced via AutoCodeHub on 2026-07-03.
