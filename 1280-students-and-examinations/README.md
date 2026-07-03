@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/students-and-examinations/)
+[View on LeetCode](https://leetcode.com/problems/students-and-examinations/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-03.
