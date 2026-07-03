@@ -1,3 +1,2 @@
-
-# Write your MySQL query statement below
-select 
+# Write your MySQL query statement below
+select 
