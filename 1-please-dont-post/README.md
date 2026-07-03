@@ -6,6 +6,6 @@
 **Memory:** 45.4 MB
 **Tags:** Array, Two Pointers, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/3sum-closest/submissions/2047836597/)
+[View on LeetCode](https://leetcode.com/problems/3sum-closest/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-03.
