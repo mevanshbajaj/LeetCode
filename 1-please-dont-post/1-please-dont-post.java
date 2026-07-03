@@ -1,19 +1,31 @@
-
-class Solution {
-    public int threeSumClosest(int[] arr, int target) {
-        Arrays.sort(arr);
-        int n = arr.length;
-        int ans = arr[0] + arr[1] + arr[2];
-        for(int i=0;i<arr.length-2;i++){
-            int left = i+1 , right = arr.length-1;
-            while(left<right){
-                int sum = arr[i] + arr[left] + arr[right];
-                if(Math.abs(sum-target)<Math.abs(ans-target)) ans = sum;
-                if(sum < target) left++;
-                else if(sum > target) right--;
-                else return ans;
-            }
-        }
-        return ans;
-    }
+class Solution {
+    public List<List<Integer>> fourSum(int[] nums, int target) {
+        Arrays.sort(nums);
+        List<List<Integer>> res = new ArrayList<>();
+        int n = nums.length;
+        for (int i = 0; i < n - 3; i++) {
+            if (i > 0 && nums[i] == nums[i - 1]) continue;
+            for (int j = i + 1; j < n - 2; j++) {
+                if (j > i + 1 && nums[j] == nums[j - 1]) continue;
+                int start = j + 1;
+                int end = n - 1;
+                long newtarget = (long)target - nums[i] - nums[j];
+                while (start < end) {
+                    long currsum = nums[start] + nums[end];
+                    if (currsum < newtarget) {
+                        start++;
+                    } else if (currsum > newtarget) {
+                        end--;
+                    } else {
+                        res.add(Arrays.asList(nums[i], nums[j], nums[start], nums[end]));
+                        while (start < end && nums[start] == nums[start + 1]) start++;
+                        while (start < end && nums[end] == nums[end - 1]) end--;
+                        start++;
+                        end--;
+                    }
+                }
+            }
+        }
+        return res;
+    }
 }
