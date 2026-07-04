@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/average-selling-price/submissions/2053662606/)
+[View on LeetCode](https://leetcode.com/problems/average-selling-price/submissions/2055306603/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-02.
+Solved automatically and synced via AutoCodeHub on 2026-07-04.
