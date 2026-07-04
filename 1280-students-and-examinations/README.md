@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 915 ms
+**Runtime:** N/A
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/students-and-examinations/submissions/2054215822/)
+[View on LeetCode](https://leetcode.com/problems/students-and-examinations/submissions/2055307942/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-03.
+Solved automatically and synced via AutoCodeHub on 2026-07-04.
