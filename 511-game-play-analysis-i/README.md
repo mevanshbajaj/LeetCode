@@ -1,10 +1,10 @@
 # 511. Game Play Analysis I
 
-**Difficulty:** Easy
+**Difficulty:** Unknown
 **Language:** java
 **Runtime:** N/A
 **Memory:** N/A
-**Tags:** Database
+**Tags:** N/A
 
 [View on LeetCode](https://leetcode.com/problems/game-play-analysis-i/submissions/2057925978/)
 
