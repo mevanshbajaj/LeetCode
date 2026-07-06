@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 19 ms
-**Memory:** 46.2 MB
+**Runtime:** 33 ms
+**Memory:** 59.3 MB
 **Tags:** Array, Two Pointers, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/4sum/submissions/2054605774/)
+[View on LeetCode](https://leetcode.com/problems/3sum/submissions/1932498135/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-03.
+Solved automatically and synced via AutoCodeHub on 2026-07-06.
