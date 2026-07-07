@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array
 
-[View on LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/submissions/2059059902/)
+[View on LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/submissions/2059061265/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-07.
