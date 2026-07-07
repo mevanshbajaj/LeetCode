@@ -1,5 +1,6 @@
-class Solution {
-    public int shipWithinDays(int[] weights, int days) {
-        
-    }
+
+class Solution {
+    public int shipWithinDays(int[] weights, int days) {
+        int le
+    }
 }
