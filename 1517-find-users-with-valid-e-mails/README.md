@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/find-users-with-valid-e-mails/submissions/2058700498/)
+[View on LeetCode](https://leetcode.com/problems/find-users-with-valid-e-mails/submissions/2058700739/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-07.
