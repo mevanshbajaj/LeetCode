@@ -1,5 +1,5 @@
 class Solution {
-    public int[] productExceptSelf(int[] nums) {
+    public int[] productExceptSelf(int[] arr) {
         
     }
 }
