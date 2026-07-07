@@ -1,5 +1,5 @@
 
-SELECT user_id, name, mail
+SELECT *
 FROM Users
 WHERE REGEXP_LIKE(
     mail,
