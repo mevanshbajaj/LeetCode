@@ -1,11 +1,11 @@
 # 1. Please don't post
 
-**Difficulty:** Medium
+**Difficulty:** Easy
 **Language:** java
-**Runtime:** 33 ms
-**Memory:** 59.3 MB
-**Tags:** Array, Two Pointers, Sorting
+**Runtime:** N/A
+**Memory:** N/A
+**Tags:** Array
 
-[View on LeetCode](https://leetcode.com/problems/3sum/submissions/1932498135/)
+[View on LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/submissions/2059059902/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-06.
+Solved automatically and synced via AutoCodeHub on 2026-07-07.
