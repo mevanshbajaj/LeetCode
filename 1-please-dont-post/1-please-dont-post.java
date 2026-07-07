@@ -1,8 +1,13 @@
-class Solution {
-    public List<List<Integer>> threeSum(int[] nums) {
-        List<List<Integer>> ans = new ArrayList<>();
-        Arrays.sort(nums);
-        int start , int end , int currsum , int target;
-        
-    }
+
+class Solution {
+    public int findSpecialInteger(int[] arr) {
+        int n = arr.length;
+        int count = 1;
+        for (int i = 1; i < n; i++) {
+            if (arr[i] == arr[i - 1]) count++;
+            else count = 1;
+            if (count > n / 4) return arr[i];
+        }
+        return arr[0];
+    }
 }
