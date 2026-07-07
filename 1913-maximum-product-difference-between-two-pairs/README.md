@@ -6,6 +6,6 @@
 **Memory:** 48.1 MB
 **Tags:** Array, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)
+[View on LeetCode](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/submissions/2058686306/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-07.
