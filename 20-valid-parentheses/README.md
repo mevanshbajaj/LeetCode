@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 2 ms
-**Memory:** 43.3 MB
+**Runtime:** 3 ms
+**Memory:** 43.1 MB
 **Tags:** String, Stack
 
-[View on LeetCode](https://leetcode.com/problems/valid-parentheses/)
+[View on LeetCode](https://leetcode.com/problems/valid-parentheses/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-08.
