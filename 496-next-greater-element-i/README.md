@@ -6,6 +6,6 @@
 **Memory:** 45.3 MB
 **Tags:** Array, Hash Table, Stack, Monotonic Stack
 
-[View on LeetCode](https://leetcode.com/problems/next-greater-element-i/submissions/)
+[View on LeetCode](https://leetcode.com/problems/next-greater-element-i/submissions/2060439257/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-08.
