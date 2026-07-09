@@ -1,6 +1,5 @@
-
-class Solution {
-    public int findKthLargest(int[] nums, int k) {
-        
-    }
+class Solution {
+    public int findKthLargest(int[] nums, int k) {
+        
+    }
 }
