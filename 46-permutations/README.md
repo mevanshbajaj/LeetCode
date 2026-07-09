@@ -6,6 +6,6 @@
 **Memory:** 44.4 MB
 **Tags:** Array, Backtracking
 
-[View on LeetCode](https://leetcode.com/problems/permutations/submissions/1631845155/)
+[View on LeetCode](https://leetcode.com/problems/permutations/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-09.
