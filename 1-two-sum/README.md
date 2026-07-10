@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Hash Table
 
-[View on LeetCode](https://leetcode.com/problems/two-sum/submissions/2062795820/)
+[View on LeetCode](https://leetcode.com/problems/two-sum/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-10.
