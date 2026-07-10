@@ -2,8 +2,8 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 44.7 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Array, Two Pointers
 
 [View on LeetCode](https://leetcode.com/problems/next-permutation/submissions/2062782348/)
