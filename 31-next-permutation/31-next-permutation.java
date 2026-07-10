@@ -10,7 +10,15 @@ class Solution {
         }
         reverse(nums,i+1,n-1);
     }
-    void swap(int[] nums , int i , int j){
-        int temp = 
+    void swap(int[] a , int i , int j){
+        int temp = a[i];
+        a[i] = a[j];
+        a[j] = temp;
+    }
+    void reverse(int[] nums , int left , int right){
+        while(left<right){
+        swap(nums,left,right);
+        left++;right--;
+        }
     }
 }
