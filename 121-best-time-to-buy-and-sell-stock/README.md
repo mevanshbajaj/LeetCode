@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** N/A
-**Memory:** N/A
+**Runtime:** 1 ms
+**Memory:** 94.4 MB
 **Tags:** Array, Dynamic Programming
 
-[View on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/2055426076/)
+[View on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-04.
+Solved automatically and synced via AutoCodeHub on 2026-07-13.
