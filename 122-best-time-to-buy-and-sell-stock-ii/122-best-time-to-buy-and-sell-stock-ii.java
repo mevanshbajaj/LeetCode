@@ -1,5 +1,6 @@
-class Solution {
-    public int maxProfit(int[] prices) {
-        
-    }
+
+class Solution {
+    public int maxProfit(int[] prices) {
+        
+    }
 }
