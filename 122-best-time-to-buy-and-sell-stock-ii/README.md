@@ -6,6 +6,6 @@
 **Memory:** 45.9 MB
 **Tags:** Array, Dynamic Programming, Greedy
 
-[View on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/1515544572/)
+[View on LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-13.
