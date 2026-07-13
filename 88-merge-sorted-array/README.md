@@ -6,6 +6,6 @@
 **Memory:** 43.8 MB
 **Tags:** Array, Two Pointers, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/)
+[View on LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/1513955729/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-13.
