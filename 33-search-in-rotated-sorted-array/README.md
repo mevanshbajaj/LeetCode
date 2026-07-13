@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 43.7 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Array, Binary Search
 
-[View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+[View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2065998010/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-08.
+Solved automatically and synced via AutoCodeHub on 2026-07-13.
