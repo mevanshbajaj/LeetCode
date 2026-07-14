@@ -6,7 +6,7 @@ public class Solution extends VersionControl {
         int start = 0 , end = n;
         while(start<=end){
         int mid = start + (end-start)/2;
-        if(firstBadVersion(mid)) end = mid + 1;
+        if(isBadVersion(mid)) end = mid;
         else start = mid + 1;
         }
         return start;
