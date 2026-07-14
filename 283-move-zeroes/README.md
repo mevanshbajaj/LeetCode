@@ -6,6 +6,6 @@
 **Memory:** 47.9 MB
 **Tags:** Array, Two Pointers
 
-[View on LeetCode](https://leetcode.com/problems/move-zeroes/description/)
+[View on LeetCode](https://leetcode.com/problems/move-zeroes/submissions/2067281677/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-14.
