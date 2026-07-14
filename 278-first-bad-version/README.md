@@ -6,6 +6,6 @@
 **Memory:** 40.5 MB
 **Tags:** Binary Search, Interactive
 
-[View on LeetCode](https://leetcode.com/problems/first-bad-version/description/)
+[View on LeetCode](https://leetcode.com/problems/first-bad-version/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-14.
