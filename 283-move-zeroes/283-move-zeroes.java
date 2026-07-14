@@ -1,5 +1,6 @@
-class Solution {
-    public void moveZeroes(int[] arr) {
-        int 
-    }
+
+class Solution {
+    public void moveZeroes(int[] arr) {
+        int 
+    }
 }
