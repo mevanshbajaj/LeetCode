@@ -6,6 +6,6 @@
 **Memory:** 47.2 MB
 **Tags:** String, Dynamic Programming
 
-[View on LeetCode](https://leetcode.com/problems/edit-distance/submissions/)
+[View on LeetCode](https://leetcode.com/problems/edit-distance/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-15.
