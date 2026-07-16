@@ -6,6 +6,6 @@
 **Memory:** 43.1 MB
 **Tags:** Stack, Tree, Depth-First Search, Binary Tree
 
-[View on LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
+[View on LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-16.
