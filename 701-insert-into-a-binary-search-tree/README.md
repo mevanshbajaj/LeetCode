@@ -6,6 +6,6 @@
 **Memory:** 47.3 MB
 **Tags:** Tree, Binary Search Tree, Binary Tree
 
-[View on LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2001925278/)
+[View on LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-20.
