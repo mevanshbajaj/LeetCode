@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** N/A
-**Memory:** N/A
+**Runtime:** 1 ms
+**Memory:** 43.6 MB
 **Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
-[View on LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2074484237/)
+[View on LeetCode](https://leetcode.com/problems/binary-tree-right-side-view/submissions/2074499134/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-20.
