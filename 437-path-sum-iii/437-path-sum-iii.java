@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    public int helper(TreeNode root , int sum){
+    public int helper(TreeNode root , long sum){
         if(root==null) return 0;
         int count = 0;
          if(root.val==sum) count++;
