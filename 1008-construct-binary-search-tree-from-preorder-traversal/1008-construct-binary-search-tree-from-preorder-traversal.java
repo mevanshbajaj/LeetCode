@@ -1,0 +1,5 @@
+class Solution {
+    public TreeNode bstFromPreorder(int[] preorder) {
+        
+    }
+}
