@@ -21,7 +21,7 @@ class Solution {
          count += helper(root.left,sum-root.val) + helper(root.right,sum-root.val);
         return count;
     }
-    public int pathSum(TreeNode root, int targetSum) {
+    public int pathSum(TreeNode root, int sum) {
         if(root==null) return 0;
         return helper(root,sum) + pathSum(root.left,sum) + pathSum(root.right,sum);
     }
