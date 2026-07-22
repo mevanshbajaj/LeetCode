@@ -18,8 +18,7 @@ class Solution {
         if(root==null) return 0;
         int count = 0;
         if(root.val==sum) count++;
-        count += dfs(root.left,root.val-sum) + dfs(root.right,root.val-sum);
-        return count;
+        return count + dfs(root.left, sum - root.val) + dfs(root.right, sum - root.val);
     }
     public int pathSum(TreeNode root, int sum) {
         if(root == null) return 0;
