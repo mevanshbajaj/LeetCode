@@ -22,6 +22,6 @@ class Solution {
     }
     public int pathSum(TreeNode root, int sum) {
         if(root == null) return 0;
-        return dfs(root.left,sum) + dfs(root.right,sum) + pathSum(root,sum);
+        return pathSum(root.left,sum) + pathSum(root.right,sum) + dfs(root,sum);
     }
 }
