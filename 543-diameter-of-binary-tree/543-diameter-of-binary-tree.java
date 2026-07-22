@@ -15,7 +15,8 @@
  */
 class Solution {
     int max = 0;
-    int height(TreeNode height){
+    int height(TreeNode root){
+        if(root == null) return 0;
         int left = height(root.left);
         int right = height(root.right);
         max = Math.max(max,left+right);
