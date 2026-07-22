@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 43 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Tree, Depth-First Search, Breadth-First Search, Binary Tree
 
-[View on LeetCode](https://leetcode.com/problems/invert-binary-tree/)
+[View on LeetCode](https://leetcode.com/problems/invert-binary-tree/submissions/2077023291/)
 
-Solved automatically and synced via AutoCodeHub on 2026-06-27.
+Solved automatically and synced via AutoCodeHub on 2026-07-22.
