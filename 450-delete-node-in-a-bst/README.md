@@ -6,6 +6,6 @@
 **Memory:** 46 MB
 **Tags:** Tree, Binary Search Tree, Binary Tree
 
-[View on LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/submissions/)
+[View on LeetCode](https://leetcode.com/problems/delete-node-in-a-bst/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-27.
