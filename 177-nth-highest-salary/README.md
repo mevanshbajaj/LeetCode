@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Database
 
-[View on LeetCode](https://leetcode.com/problems/nth-highest-salary/submissions/1882513803/)
+[View on LeetCode](https://leetcode.com/problems/nth-highest-salary/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-07-29.
