@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 46.9 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Tree, Binary Search Tree, Binary Tree
 
-[View on LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2083182253/)
+[View on LeetCode](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/2088798931/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-27.
+Solved automatically and synced via AutoCodeHub on 2026-07-31.
