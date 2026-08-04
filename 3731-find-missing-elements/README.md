@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Hash Table, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/find-missing-elements/submissions/2093910923/)
+[View on LeetCode](https://leetcode.com/problems/find-missing-elements/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-04.
