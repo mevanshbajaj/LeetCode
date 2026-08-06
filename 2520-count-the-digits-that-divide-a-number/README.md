@@ -6,6 +6,6 @@
 **Memory:** 42.3 MB
 **Tags:** Math
 
-[View on LeetCode](https://leetcode.com/problems/count-the-digits-that-divide-a-number/submissions/1886461260/)
+[View on LeetCode](https://leetcode.com/problems/count-the-digits-that-divide-a-number/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-06.
