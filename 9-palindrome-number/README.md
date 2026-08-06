@@ -6,6 +6,6 @@
 **Memory:** 46 MB
 **Tags:** Math
 
-[View on LeetCode](https://leetcode.com/problems/palindrome-number/submissions/1925249580/)
+[View on LeetCode](https://leetcode.com/problems/palindrome-number/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-06.
