@@ -6,6 +6,6 @@
 **Memory:** 43.7 MB
 **Tags:** Array, Dynamic Programming
 
-[View on LeetCode](https://leetcode.com/problems/pascals-triangle/submissions/1942715239/)
+[View on LeetCode](https://leetcode.com/problems/pascals-triangle/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-06.
