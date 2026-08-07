@@ -6,6 +6,6 @@
 **Memory:** 44.3 MB
 **Tags:** Two Pointers, String
 
-[View on LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/submissions/1886432356/)
+[View on LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-07.
