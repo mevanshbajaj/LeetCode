@@ -6,6 +6,6 @@
 **Memory:** 43.6 MB
 **Tags:** Linked List, Two Pointers
 
-[View on LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2047842382/)
+[View on LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-07.
