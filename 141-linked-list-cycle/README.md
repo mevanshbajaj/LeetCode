@@ -6,6 +6,6 @@
 **Memory:** 46.8 MB
 **Tags:** Hash Table, Linked List, Two Pointers, Floyd's Cycle Finding Algorithm
 
-[View on LeetCode](https://leetcode.com/problems/linked-list-cycle/submissions/1965147676/)
+[View on LeetCode](https://leetcode.com/problems/linked-list-cycle/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-07.
