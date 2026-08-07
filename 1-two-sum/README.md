@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 46 ms
-**Memory:** 47.2 MB
+**Runtime:** 2 ms
+**Memory:** 47.3 MB
 **Tags:** Array, Hash Table
 
-[View on LeetCode](https://leetcode.com/problems/two-sum/submissions/2067319408/)
+[View on LeetCode](https://leetcode.com/problems/two-sum/submissions/2067319532/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-14.
+Solved automatically and synced via AutoCodeHub on 2026-08-07.
