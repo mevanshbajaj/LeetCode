@@ -6,6 +6,6 @@
 **Memory:** 42.9 MB
 **Tags:** Linked List, Two Pointers
 
-[View on LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/)
+[View on LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/submissions/2097956994/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-07.
