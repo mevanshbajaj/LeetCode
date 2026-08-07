@@ -15,7 +15,7 @@ class Solution {
         List fast = head;
         for(int i=0;i<=n;i++) fast = fast.next;
         if(fast == null) return head.next;
-        while(fast != null && fast.next != null){
+        while(fast != null & fast.next != null){
             slow = slow.next;
             fast = fast.next;
         }
