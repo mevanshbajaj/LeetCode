@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 44.3 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Linked List, Recursion
 
-[View on LeetCode](https://leetcode.com/problems/reverse-linked-list/)
+[View on LeetCode](https://leetcode.com/problems/reverse-linked-list/submissions/2097950377/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-07.
