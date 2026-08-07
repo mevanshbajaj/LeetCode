@@ -6,6 +6,6 @@
 **Memory:** 94.2 MB
 **Tags:** Linked List, Two Pointers, Stack, Recursion
 
-[View on LeetCode](https://leetcode.com/problems/palindrome-linked-list/submissions/)
+[View on LeetCode](https://leetcode.com/problems/palindrome-linked-list/submissions/2097965345/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-07.
