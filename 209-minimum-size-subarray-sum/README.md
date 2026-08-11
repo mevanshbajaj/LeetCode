@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Binary Search, Sliding Window, Prefix Sum
 
-[View on LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2062965838/)
+[View on LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-10.
+Solved automatically and synced via AutoCodeHub on 2026-08-11.
