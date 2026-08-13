@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Sliding Window
 
-[View on LeetCode](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/)
+[View on LeetCode](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/submissions/2105379684/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-13.
