@@ -3,9 +3,9 @@
 **Difficulty:** Medium
 **Language:** java
 **Runtime:** 0 ms
-**Memory:** 42.7 MB
+**Memory:** 43 MB
 **Tags:** Array, Dynamic Programming
 
-[View on LeetCode](https://leetcode.com/problems/house-robber/submissions/2066059113/)
+[View on LeetCode](https://leetcode.com/problems/house-robber/submissions/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-13.
+Solved automatically and synced via AutoCodeHub on 2026-08-13.
