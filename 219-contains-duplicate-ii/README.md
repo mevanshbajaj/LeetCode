@@ -6,6 +6,6 @@
 **Memory:** 92 MB
 **Tags:** Array, Hash Table, Sliding Window
 
-[View on LeetCode](https://leetcode.com/problems/contains-duplicate-ii/)
+[View on LeetCode](https://leetcode.com/problems/contains-duplicate-ii/description/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-13.
