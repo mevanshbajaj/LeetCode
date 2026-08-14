@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Sliding Window
 
-[View on LeetCode](https://leetcode.com/problems/grumpy-bookstore-owner/submissions/2106590669/)
+[View on LeetCode](https://leetcode.com/problems/grumpy-bookstore-owner/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-14.
