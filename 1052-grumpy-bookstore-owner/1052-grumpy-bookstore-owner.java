@@ -20,9 +20,7 @@ class Solution {
             }
         }
 
-        // Sliding window
         while (j < n) {
-
             if (maxunsatisfied < unsatisfied) {
                 maxunsatisfied = unsatisfied;
                 a = i;
