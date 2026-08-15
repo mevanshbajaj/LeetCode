@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** N/A
-**Memory:** N/A
+**Runtime:** 3 ms
+**Memory:** 71.9 MB
 **Tags:** Array, Sliding Window
 
-[View on LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/2105063116/)
+[View on LeetCode](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/submissions/2107978736/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-13.
+Solved automatically and synced via AutoCodeHub on 2026-08-15.
