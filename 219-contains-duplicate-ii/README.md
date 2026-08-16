@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 31 ms
-**Memory:** 92 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Array, Hash Table, Sliding Window
 
-[View on LeetCode](https://leetcode.com/problems/contains-duplicate-ii/description/)
+[View on LeetCode](https://leetcode.com/problems/contains-duplicate-ii/submissions/2108707687/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-13.
+Solved automatically and synced via AutoCodeHub on 2026-08-16.
