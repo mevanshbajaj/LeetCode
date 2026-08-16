@@ -4,14 +4,14 @@ class Solution {
         int i =0 , j = 0 , a = 0 , b = 0 , count = 0 , k2 = 0;
         // for(int x=0;x<n;x++) arr[x] %= 2;
         // move  ito first odd
-        while(i<n&&arr[i]%2=0) i++;
-        // j ko kth odd number
+        while(i<n&&arr[i]%2==0) i++;
+        // j ko kth odd number pe leke jana
         while(j<n&&k2 < k){
             if(arr[j]%2!=0){
                 j++;k2++;
             }
-            j--;
         }
+        j--;
         b = j + 1;
         while(b<n&&arr[b]%2==0) b++;
         b--;
