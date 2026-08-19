@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Hash Table, Sliding Window
 
-[View on LeetCode](https://leetcode.com/problems/contains-duplicate-ii/submissions/2108707687/)
+[View on LeetCode](https://leetcode.com/problems/contains-duplicate-ii/submissions/2112267971/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-16.
+Solved automatically and synced via AutoCodeHub on 2026-08-19.
