@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 42.2 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Math, Dynamic Programming, Recursion, Memoization
 
-[View on LeetCode](https://leetcode.com/problems/fibonacci-number/description/)
+[View on LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/2114893302/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-13.
+Solved automatically and synced via AutoCodeHub on 2026-08-21.
