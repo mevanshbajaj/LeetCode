@@ -8,4 +8,4 @@
 
 [View on LeetCode](https://leetcode.com/problems/merge-sorted-array/submissions/1929322730/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-13.
+Solved automatically and synced via AutoCodeHub on 2026-08-21.
