@@ -1,20 +1,37 @@
 class Solution {
-    public int largestInteger(int[] arr, int k) {
-        int n = arr.length;
+    public int largestInteger(int[] nums, int k) {
+        int n = nums.length;
         int ans = -1;
-        for(int x : arr){
-            int count = 0;
-            for(int i=0;i<=n-k;i++){
-                boolean flag = false;
-                for(int j=i;j<i+k;j++){
-                    if(arr[j] == x){
-                        flag = true;
-                        break;
-                    }
-                }
-                if(flag) count++;
+
+        if (k == n) {
+            for (int num : nums) {
+                ans = Math.max(ans, num);
             }
-            if(count == 1) ans = Math.max(ans,x);
+            return ans;
+        }
+        for (int i = 0; i < k; i++) {
+            boolean unique = true;
+            for (int j = 0; j < k; j++) {
+                if (i != j && nums[i] == nums[j]) {
+                    unique = false;
+                    break;
+                }
+            }
+            if (unique) {
+                ans = Math.max(ans, nums[i]);
+            }
+        }
+        for (int i = n - k; i < n; i++) {
+            boolean unique = true;
+            for (int j = n - k; j < n; j++) {
+                if (i != j && nums[i] == nums[j]) {
+                    unique = false;
+                    break;
+                }
+            }
+            if (unique) {
+                ans = Math.max(ans, nums[i]);
+            }
         }
         return ans;
     }
