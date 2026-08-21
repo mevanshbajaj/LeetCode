@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** N/A
-**Memory:** N/A
+**Runtime:** 1 ms
+**Memory:** 44.5 MB
 **Tags:** Array, Hash Table
 
 [View on LeetCode](https://leetcode.com/problems/find-the-largest-almost-missing-integer/submissions/2114678467/)
