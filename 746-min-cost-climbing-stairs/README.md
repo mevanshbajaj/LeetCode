@@ -6,6 +6,6 @@
 **Memory:** 45 MB
 **Tags:** Array, Dynamic Programming
 
-[View on LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2114946143/)
+[View on LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2017162459/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-21.
