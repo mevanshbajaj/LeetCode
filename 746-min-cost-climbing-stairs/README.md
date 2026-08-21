@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 0 ms
+**Runtime:** 1 ms
 **Memory:** 45 MB
 **Tags:** Array, Dynamic Programming
 
-[View on LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/submissions/2114951437/)
+[View on LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-21.
