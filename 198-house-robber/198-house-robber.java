@@ -1,6 +1,5 @@
-
-class Solution {
-    public int rob(int[] arr) {
-        
-    }
+class Solution {
+    public int rob(int[] arr) {
+        
+    }
 }
