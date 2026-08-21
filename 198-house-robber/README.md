@@ -8,4 +8,4 @@
 
 [View on LeetCode](https://leetcode.com/problems/house-robber/submissions/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-13.
+Solved automatically and synced via AutoCodeHub on 2026-08-21.
