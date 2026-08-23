@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Math, Enumeration
 
-[View on LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/submissions/2117508462/)
+[View on LeetCode](https://leetcode.com/problems/smallest-divisible-digit-product-i/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-23.
