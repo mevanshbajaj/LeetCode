@@ -8,6 +8,7 @@ class Solution {
         return rightways + downways;
     }
     public int uniquePaths(int m, int n) {
+        int
         return paths(0,0,m,n);
     }
 }
