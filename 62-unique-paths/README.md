@@ -6,6 +6,6 @@
 **Memory:** 42.4 MB
 **Tags:** Math, Dynamic Programming, Combinatorics
 
-[View on LeetCode](https://leetcode.com/problems/unique-paths/)
+[View on LeetCode](https://leetcode.com/problems/unique-paths/submissions/2118623923/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-24.
