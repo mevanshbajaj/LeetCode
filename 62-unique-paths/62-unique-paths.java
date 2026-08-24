@@ -10,7 +10,8 @@ class Solution {
     }
     public int uniquePaths(int m, int n) {
         int[][] dp = new int[m][n];
-        Arrays.fill(dp,-1);
+        for (int[] row : dp)
+        Arrays.fill(row,-1);
         return paths(0,0,m,n,dp);
     }
 }
