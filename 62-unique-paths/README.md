@@ -3,7 +3,7 @@
 **Difficulty:** Medium
 **Language:** java
 **Runtime:** 0 ms
-**Memory:** 42.1 MB
+**Memory:** 42.4 MB
 **Tags:** Math, Dynamic Programming, Combinatorics
 
 [View on LeetCode](https://leetcode.com/problems/unique-paths/)
