@@ -8,6 +8,6 @@ class Solution { //tabulation
                 else dp[i][j] = dp[i][j-1] + dp[i-1][j];
             }
         }
-        return dp[m][n];
+        return dp[m-1][n-1];
     }
 }
