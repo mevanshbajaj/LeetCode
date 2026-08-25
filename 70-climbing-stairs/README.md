@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 42.1 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Math, Dynamic Programming, Memoization
 
-[View on LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/2118596298/)
+[View on LeetCode](https://leetcode.com/problems/climbing-stairs/submissions/2119245064/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-24.
+Solved automatically and synced via AutoCodeHub on 2026-08-25.
