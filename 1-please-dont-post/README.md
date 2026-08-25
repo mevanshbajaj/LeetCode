@@ -1,11 +1,11 @@
 # 1. Please don't post
 
-**Difficulty:** Easy
+**Difficulty:** Medium
 **Language:** java
 **Runtime:** N/A
 **Memory:** N/A
-**Tags:** Array
+**Tags:** Math, Recursion
 
-[View on LeetCode](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/submissions/2059061265/)
+[View on LeetCode](https://leetcode.com/problems/powx-n/submissions/2119444784/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-07.
+Solved automatically and synced via AutoCodeHub on 2026-08-25.
