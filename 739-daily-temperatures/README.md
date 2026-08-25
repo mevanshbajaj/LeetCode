@@ -6,6 +6,6 @@
 **Memory:** 62.7 MB
 **Tags:** Array, Stack, Monotonic Stack
 
-[View on LeetCode](https://leetcode.com/problems/daily-temperatures/submissions/)
+[View on LeetCode](https://leetcode.com/problems/daily-temperatures/)
 
 Solved automatically and synced via AutoCodeHub on 2026-08-25.
