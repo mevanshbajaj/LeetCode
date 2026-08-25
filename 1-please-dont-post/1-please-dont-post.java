@@ -1,13 +1,19 @@
 
-// best approach 
 class Solution {
-    public int findSpecialInteger(int[] arr) {
-        int n = arr.length;
-        for (int i = 0; i < n - n / 4; i++) {
-            if (arr[i] == arr[i + n / 4]) {
-                return arr[i];
-            }
+    public double myPow(double x, int n) {
+        long N = n; 
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
         }
-        return -1;
+        double result = 1.0;
+        while (N > 0) {
+            if ((N & 1) == 1) { 
+                result *= x;
+            }
+            x *= x;             
+            N >>= 1;            
+        }
+        return result;
     }
 }
