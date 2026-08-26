@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Dynamic Programming
 
-[View on LeetCode](https://leetcode.com/problems/house-robber-ii/submissions/2116028860/)
+[View on LeetCode](https://leetcode.com/problems/house-robber-ii/submissions/2120343785/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-22.
+Solved automatically and synced via AutoCodeHub on 2026-08-26.
