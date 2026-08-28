@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Math, Recursion
 
-[View on LeetCode](https://leetcode.com/problems/powx-n/submissions/2119444784/)
+[View on LeetCode](https://leetcode.com/problems/powx-n/submissions/2122788166/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-25.
+Solved automatically and synced via AutoCodeHub on 2026-08-28.
