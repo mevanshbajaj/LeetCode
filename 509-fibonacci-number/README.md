@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Math, Dynamic Programming, Recursion, Memoization
 
-[View on LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/2118218675/)
+[View on LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/2123638128/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-24.
+Solved automatically and synced via AutoCodeHub on 2026-08-29.
