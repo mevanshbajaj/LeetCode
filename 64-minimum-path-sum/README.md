@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Dynamic Programming, Matrix
 
-[View on LeetCode](https://leetcode.com/problems/minimum-path-sum/submissions/2118649288/)
+[View on LeetCode](https://leetcode.com/problems/minimum-path-sum/submissions/2124440149/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-24.
+Solved automatically and synced via AutoCodeHub on 2026-08-30.
