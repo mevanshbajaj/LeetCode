@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 21 ms
-**Memory:** 3.8 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Shell
 
-[View on LeetCode](https://leetcode.com/problems/word-frequency/)
+[View on LeetCode](https://leetcode.com/problems/word-frequency/submissions/2127062967/)
 
 Solved automatically and synced via AutoCodeHub on 2026-09-01.
