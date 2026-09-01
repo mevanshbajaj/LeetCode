@@ -1,11 +1,11 @@
 # 195. Tenth Line
 
 **Difficulty:** Easy
-**Language:** cpp
+**Language:** java
 **Runtime:** N/A
 **Memory:** N/A
 **Tags:** Shell
 
-[View on LeetCode](https://leetcode.com/problems/tenth-line/submissions/2117513114/)
+[View on LeetCode](https://leetcode.com/problems/tenth-line/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-23.
+Solved automatically and synced via AutoCodeHub on 2026-09-01.
