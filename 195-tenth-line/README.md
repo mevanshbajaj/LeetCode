@@ -2,8 +2,8 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** N/A
-**Memory:** N/A
+**Runtime:** 21 ms
+**Memory:** 3.8 MB
 **Tags:** Shell
 
 [View on LeetCode](https://leetcode.com/problems/tenth-line/)
