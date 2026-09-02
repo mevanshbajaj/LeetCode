@@ -1,11 +1,11 @@
 # 509. Fibonacci Number
 
 **Difficulty:** Easy
-**Language:** java
-**Runtime:** N/A
-**Memory:** N/A
+**Language:** python3
+**Runtime:** 0 ms
+**Memory:** 42.1 MB
 **Tags:** Math, Dynamic Programming, Recursion, Memoization
 
-[View on LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/2123638128/)
+[View on LeetCode](https://leetcode.com/problems/fibonacci-number/submissions/)
 
-Solved automatically and synced via AutoCodeHub on 2026-08-29.
+Solved automatically and synced via AutoCodeHub on 2026-09-02.
