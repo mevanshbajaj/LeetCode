@@ -2,5 +2,6 @@
 import pandas as pd
 
 def game_analysis(activity: pd.DataFrame) -> pd.DataFrame:
-    result = activity.groupby("playerid",as_index=False)['event_date'].min()
-    result = result.rename(columns={"event.date": "first_login"})
+    result = activity.groupby("player_id", as_index=False)["event_date"].min()
+    result = result.rename(columns={"event_date": "first_login"})
+    return result
