@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** N/A
-**Memory:** N/A
+**Runtime:** 1 ms
+**Memory:** 46.7 MB
 **Tags:** Array, Two Pointers
 
-[View on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2055429123/)
+[View on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-04.
+Solved automatically and synced via AutoCodeHub on 2026-09-08.
