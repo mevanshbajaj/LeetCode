@@ -3,6 +3,10 @@ class Solution {
     public int[] twoSum(int[] arr, int target) {
         int n = arr.length;
         HashMap<Integer,Integer> map = new HashMap<>();
-        int rem = 
+        for(int i=0;i<n;i++){
+        int rem = target - arr[i];
+        if(map.containsKey(rem)) return new int[] {map.get(rem) , i};
+        }
+        return new int[] {-1,-1};
     }
 }
