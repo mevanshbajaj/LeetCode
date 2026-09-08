@@ -6,7 +6,8 @@ class Solution {
         for(int i=0;i<n;i++){
         int rem = target - arr[i];
         if(map.containsKey(rem)) return new int[] {map.get(rem) , i};
+        else map.put(arr[i],i);
         }
-        return new int[] {-1,-1};
+        return new int[] {};
     }
 }
