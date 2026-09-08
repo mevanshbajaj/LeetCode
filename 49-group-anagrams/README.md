@@ -6,6 +6,6 @@
 **Memory:** 49.4 MB
 **Tags:** Array, Hash Table, String, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/group-anagrams/submissions/)
+[View on LeetCode](https://leetcode.com/problems/group-anagrams/submissions/1970436999/)
 
 Solved automatically and synced via AutoCodeHub on 2026-09-08.
