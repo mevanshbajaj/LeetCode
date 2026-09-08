@@ -6,6 +6,6 @@
 **Memory:** 72 MB
 **Tags:** Array, Prefix Sum
 
-[View on LeetCode](https://leetcode.com/problems/product-of-array-except-self/submissions/)
+[View on LeetCode](https://leetcode.com/problems/product-of-array-except-self/submissions/2135041965/)
 
 Solved automatically and synced via AutoCodeHub on 2026-09-08.
