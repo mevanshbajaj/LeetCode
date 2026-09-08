@@ -6,6 +6,6 @@
 **Memory:** 46.7 MB
 **Tags:** Array, Two Pointers
 
-[View on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
+[View on LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 Solved automatically and synced via AutoCodeHub on 2026-09-08.
