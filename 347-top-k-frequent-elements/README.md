@@ -6,6 +6,6 @@
 **Memory:** 47.8 MB
 **Tags:** Array, Hash Table, Divide and Conquer, Sorting, Heap (Priority Queue), Bucket Sort, Counting, Quickselect
 
-[View on LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)
+[View on LeetCode](https://leetcode.com/problems/top-k-frequent-elements/submissions/)
 
 Solved automatically and synced via AutoCodeHub on 2026-09-09.
