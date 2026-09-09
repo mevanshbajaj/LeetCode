@@ -8,8 +8,13 @@ class Solution {
             if(!set.contains(n-1)){
                 int curr = n;
                 int len = 1;
-                while(set.contains())
+                while(!set.contains(curr+1)){
+                    curr++;
+                    len++;
+                }
+                longest = Math.max(longest,len);
             }
         }
+        return len;
     }
 }
