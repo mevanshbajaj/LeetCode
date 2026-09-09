@@ -2,8 +2,8 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 30 ms
-**Memory:** 95.7 MB
+**Runtime:** 32 ms
+**Memory:** 95.8 MB
 **Tags:** Array, Hash Table, Union-Find
 
 [View on LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)
