@@ -1,6 +1,5 @@
-
-class Solution {
-    public int longestConsecutive(int[] nums) {
-        
-    }
+class Solution {
+    public int longestConsecutive(int[] nums) {
+        
+    }
 }
