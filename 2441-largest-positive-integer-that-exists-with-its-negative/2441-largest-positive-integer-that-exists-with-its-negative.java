@@ -1,13 +1,11 @@
 
 class Solution {
-    public int findMaxK(int[] nums) {
+    public int findMaxK(int[] arr) {
+        HashSet<Integer> set = new HashSet<>();
+        for(int n : arr) set.add(n);
         int ans = -1;
-        for (int i = 0; i < nums.length; i++) {
-            for (int j = 0; j < nums.length; j++) {
-                if (nums[i] == -nums[j]) {
-                    ans = Math.max(ans, Math.abs(nums[i]));
-                }
-            }
+        for(int n : arr){
+            if(n > 0 && set.contains(-n)) ans = Math.max(ans,n);
         }
         return ans;
     }
