@@ -1,5 +1,6 @@
-class Solution {
-    public void solveSudoku(char[][] board) {
-        
-    }
+
+class Solution {
+    public void solveSudoku(char[][] board) {
+        
+    }
 }
