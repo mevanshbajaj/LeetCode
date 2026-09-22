@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Backtracking, Algorithm X
 
-[View on LeetCode](https://leetcode.com/problems/n-queens-ii/submissions/2144703424/)
+[View on LeetCode](https://leetcode.com/problems/n-queens-ii/submissions/2149640919/)
 
-Solved automatically and synced via AutoCodeHub on 2026-09-17.
+Solved automatically and synced via AutoCodeHub on 2026-09-22.
