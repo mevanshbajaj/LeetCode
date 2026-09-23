@@ -1,9 +1,10 @@
 
 class Solution {
-    public List<List<Integer>> permute(int[] nums) {
+    public List<List<Integer>> permuteUnique(int[] nums) {
         List<List<Integer>> ans = new ArrayList<>();
         List<Integer> ds = new ArrayList<>();
         boolean freq[] = new boolean[nums.length];
+        Arrays.sort(nums);
         per(nums,ds,ans,freq);
         return ans;
     }
@@ -13,6 +14,7 @@ class Solution {
         return;
         }
         for(int i = 0;i< nums.length;i++){
+            if(i > 0 && nums[i] == nums[i-1] && !freq[i-1]) continue;
             if(!freq[i]){
                 freq[i] = true;
                 ds.add(nums[i]);
@@ -22,5 +24,4 @@ class Solution {
             }
         }
     }
-    
-} 
+}
