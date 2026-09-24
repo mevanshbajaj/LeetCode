@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Backtracking, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/permutations-ii/)
+[View on LeetCode](https://leetcode.com/problems/permutations-ii/submissions/2151930932/)
 
-Solved automatically and synced via AutoCodeHub on 2026-09-23.
+Solved automatically and synced via AutoCodeHub on 2026-09-24.
