@@ -2,10 +2,10 @@
 
 **Difficulty:** Easy
 **Language:** java
-**Runtime:** 0 ms
-**Memory:** 43.5 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Array, Math
 
-[View on LeetCode](https://leetcode.com/problems/plus-one/submissions/2142418075/)
+[View on LeetCode](https://leetcode.com/problems/plus-one/submissions/2152504288/)
 
-Solved automatically and synced via AutoCodeHub on 2026-09-15.
+Solved automatically and synced via AutoCodeHub on 2026-09-25.
