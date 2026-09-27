@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Concurrency
 
-[View on LeetCode](https://leetcode.com/problems/print-in-order/submissions/2153002681/)
+[View on LeetCode](https://leetcode.com/problems/print-in-order/submissions/2155239814/)
 
-Solved automatically and synced via AutoCodeHub on 2026-09-25.
+Solved automatically and synced via AutoCodeHub on 2026-09-27.
