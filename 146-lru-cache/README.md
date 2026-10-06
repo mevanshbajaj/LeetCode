@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 14 ms
-**Memory:** 58.5 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Hash Table, Linked List, Design, Doubly-Linked List
 
-[View on LeetCode](https://leetcode.com/problems/lru-cache/submissions/)
+[View on LeetCode](https://leetcode.com/problems/lru-cache/description/)
 
-Solved automatically and synced via AutoCodeHub on 2026-09-10.
+Solved automatically and synced via AutoCodeHub on 2026-10-06.
