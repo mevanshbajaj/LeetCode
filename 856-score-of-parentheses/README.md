@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** String, Stack, Bracket Sequences
 
-[View on LeetCode](https://leetcode.com/problems/score-of-parentheses/submissions/2165123209/)
+[View on LeetCode](https://leetcode.com/problems/score-of-parentheses/)
 
 Solved automatically and synced via AutoCodeHub on 2026-10-07.
