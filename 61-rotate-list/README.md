@@ -6,6 +6,6 @@
 **Memory:** 44.3 MB
 **Tags:** Linked List, Two Pointers
 
-[View on LeetCode](https://leetcode.com/problems/rotate-list/submissions/)
+[View on LeetCode](https://leetcode.com/problems/rotate-list/submissions/1965263450/)
 
 Solved automatically and synced via AutoCodeHub on 2026-10-08.
