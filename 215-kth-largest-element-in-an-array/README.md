@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 67 ms
-**Memory:** 68.9 MB
+**Runtime:** 71 ms
+**Memory:** 74.3 MB
 **Tags:** Array, Divide and Conquer, Sorting, Heap (Priority Queue), Quickselect
 
-[View on LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2061647475/)
+[View on LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-09.
+Solved automatically and synced via AutoCodeHub on 2026-10-12.
