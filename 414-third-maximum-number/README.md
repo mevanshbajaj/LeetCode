@@ -6,6 +6,6 @@
 **Memory:** 45 MB
 **Tags:** Array, Sorting
 
-[View on LeetCode](https://leetcode.com/problems/third-maximum-number/submissions/1925074566/)
+[View on LeetCode](https://leetcode.com/problems/third-maximum-number/submissions/2170133939/)
 
 Solved automatically and synced via AutoCodeHub on 2026-10-12.
