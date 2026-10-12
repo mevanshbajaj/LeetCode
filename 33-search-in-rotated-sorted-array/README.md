@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Binary Search
 
-[View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2065998010/)
+[View on LeetCode](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2170125408/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-13.
+Solved automatically and synced via AutoCodeHub on 2026-10-12.
