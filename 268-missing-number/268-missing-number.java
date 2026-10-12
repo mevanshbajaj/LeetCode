@@ -1,10 +1,10 @@
-class Solution {
-    public int missingNumber(int[] arr) {
-        int n = arr.length;
-        int sum = 0;
-        int total = n * (n+1) / 2;
-        for(int ele : arr) sum += ele;
-        int mis = total-sum;
-        return mis;
-    }
+
+class Solution {
+    public int missingNumber(int[] nums) {
+        int n = nums.length;
+        for(int i =0;i<n;i++){
+            n ^= i ^ nums[i];
+        }
+        return n;
+    }
 }
