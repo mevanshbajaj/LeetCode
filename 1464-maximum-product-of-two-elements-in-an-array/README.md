@@ -6,6 +6,6 @@
 **Memory:** N/A
 **Tags:** Array, Sorting, Heap (Priority Queue)
 
-[View on LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2171790598/)
+[View on LeetCode](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/submissions/2171792854/)
 
 Solved automatically and synced via AutoCodeHub on 2026-10-14.
