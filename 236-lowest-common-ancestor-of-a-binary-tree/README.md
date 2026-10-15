@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 16 ms
-**Memory:** 69.9 MB
-**Tags:** Tree, Depth-First Search, Binary Tree
+**Runtime:** N/A
+**Memory:** N/A
+**Tags:** Tree, Depth-First Search, Binary Tree, Binary Lifting, Lowest Common Ancestor
 
-[View on LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)
+[View on LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2173009811/)
 
-Solved automatically and synced via AutoCodeHub on 2026-07-27.
+Solved automatically and synced via AutoCodeHub on 2026-10-15.
