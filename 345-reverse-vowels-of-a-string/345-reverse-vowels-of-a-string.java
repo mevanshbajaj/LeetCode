@@ -1,6 +1,5 @@
-
-class Solution {
-    public String reverseVowels(String s) {
-        
-    }
+class Solution {
+    public String reverseVowels(String s) {
+        
+    }
 }
