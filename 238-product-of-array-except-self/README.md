@@ -2,10 +2,10 @@
 
 **Difficulty:** Medium
 **Language:** java
-**Runtime:** 2 ms
-**Memory:** 72 MB
+**Runtime:** N/A
+**Memory:** N/A
 **Tags:** Array, Prefix Sum
 
-[View on LeetCode](https://leetcode.com/problems/product-of-array-except-self/submissions/2135041965/)
+[View on LeetCode](https://leetcode.com/problems/product-of-array-except-self/submissions/2176415854/)
 
-Solved automatically and synced via AutoCodeHub on 2026-09-08.
+Solved automatically and synced via AutoCodeHub on 2026-10-19.
