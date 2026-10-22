@@ -1,11 +1,11 @@
 # 283. Move Zeroes
 
 **Difficulty:** Easy
-**Language:** typescript
+**Language:** java
 **Runtime:** N/A
 **Memory:** N/A
 **Tags:** Array, Two Pointers
 
-[View on LeetCode](https://leetcode.com/problems/move-zeroes/submissions/2129295530/)
+[View on LeetCode](https://leetcode.com/problems/move-zeroes/submissions/2179023100/)
 
-Solved automatically and synced via AutoCodeHub on 2026-09-03.
+Solved automatically and synced via AutoCodeHub on 2026-10-22.
