@@ -1,5 +1,6 @@
-class Solution {
-    public boolean isSubsequence(String s, String t) {
-        
-    }
+
+class Solution {
+    public boolean isSubsequence(String s, String t) {
+        
+    }
 }
